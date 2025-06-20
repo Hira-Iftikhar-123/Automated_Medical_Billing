@@ -1,0 +1,6 @@
+flask
+pytesseract
+Pillow
+scikit-learn
+transformers
+pdf2image 
