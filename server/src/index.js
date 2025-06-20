@@ -6,6 +6,7 @@ const helmet = require('helmet');
 const morgan = require('morgan');
 const passport = require('passport');
 
+//routes
 // const authRoutes = require('./routes/auth');
 // const userRoutes = require('./routes/users');
 // const patientRoutes = require('./routes/patients');
